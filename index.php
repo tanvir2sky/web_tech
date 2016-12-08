@@ -2,6 +2,6 @@
 
 	printf("hi");
 	hi tehre
-	whats up
+	kire vogh
 
 ?>
