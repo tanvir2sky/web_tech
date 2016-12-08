@@ -133,6 +133,13 @@
 		
 		</tr>
 		
+		<td>
+					<a href="login.php">Logout</a>
+			<a href="viewEmployee.php">View Employee</a>
+
+		</td>
+		
+		
 </table>
 			
 		</form>

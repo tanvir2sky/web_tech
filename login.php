@@ -37,10 +37,24 @@
 		<tr align="center">
 		
 				<td colspan="2" align="right">
-			             <input type="submit"  name="login" value="login" /> 
+			             <input type="submit"  name="login" value="login" />
+						
 				</td>
 		
 		</tr>
+		
+		<tr align="center">
+		
+				<td colspan="2" align="right">
+						<a href="Employee.php"> Admin</a>
+						<a href="viewCatageory.php">User</a>
+						
+						
+				</td>
+				
+		</tr>
+		
+		
 		
 </table>
 			

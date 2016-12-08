@@ -126,17 +126,19 @@
 		       15.08.2016
 	    </td>	
 		
+		
+		</tr>
+	
+	<tr>	
+				<a href="login.php">Logout</a>
+			<a href="addEmployee.php">Add Employee</a>
 		</tr>
 		
 		
 		
 		
+		</form>
 		
+	</center>
 		
-		
-		
-		<form>
-		
-	<center>
-		
-<div>
+</div>
