@@ -12,7 +12,7 @@
 <table  cellpadding="0px" cellspacing="0px" id="navBar" border="1">
     <tr>
         <td>
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
         </td>
         <td>
             <a href="#">Link 1</a>
@@ -26,17 +26,6 @@
     </tr>
 </table>
 
-<div class="footer">&copy; Web-tech final project <span style="color:green">Course teacher: <strong>SHOVRA DAS</strong></span>.
-
-
-</div>
-
-</div>
 
 
 
-
-</body>
-
-
-</html>

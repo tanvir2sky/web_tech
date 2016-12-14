@@ -1,7 +1,7 @@
 <?php
 
-	printf("hi");
-	hi tehre
-	kire vogh
+include("header.php");
 
+include("footer.php");
+	
 ?>
