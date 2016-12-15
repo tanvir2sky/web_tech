@@ -128,7 +128,7 @@
 		<tr align="center">
 		
 				<td colspan="2" align="right">
-			             <input type="submit"  name="submit" value="Submit" /> 
+			             <button type="submit" class="rock" name="submit">SUBMIT </button>
 				</td>
 		
 		</tr>
